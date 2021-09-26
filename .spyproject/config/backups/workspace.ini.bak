@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['scrapeMain.py', 'fsuScrape.py', 'umScrape.py', 'ufScrape.py', 'theBoyWhoScraped.py', 'testing.py', 'scrapenotes.py', 'fsu.txt', 'um.txt', 'universityClient.py', 'uf.txt']
+recent_files = ['fsuScrape.py', 'umScrape.py', 'testing.py', 'ufScrape.py', 'scrapenotes.py', 'universityClient.py', 'ufClubScrape.py', 'seleniumTesting.py', 'ufClubs.txt']
 
